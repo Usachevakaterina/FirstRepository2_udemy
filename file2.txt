@@ -1,3 +1,4 @@
 Goodbye!
 Some other string
 Line from user2!
+Change from user2
